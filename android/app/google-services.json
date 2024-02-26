@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550821482731",
+    "project_id": "pretty-d6532",
+    "storage_bucket": "pretty-d6532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550821482731:android:e233835820fee33fe2aeae",
+        "android_client_info": {
+          "package_name": "com.example.mobile_pretty_feels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEp0m5YOgXOXas5-S-iB8i9LXKfIflCoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
