@@ -53,7 +53,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
           )).then((value) {
 
             NotificationService.display(
-              title: "Welcome to this app",
+              title: "Welcome to Pretty Feels",
               body: "Hello ${_authViewModel.loggedInUser?.name},\n Thank you for registering in this application.",
             );
             Navigator.of(context).pushReplacementNamed("/dashboard");
